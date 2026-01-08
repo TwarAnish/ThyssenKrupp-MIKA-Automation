@@ -1,0 +1,543 @@
+{
+    "snapshot_date": "2025-10-31",
+    "frequency": "MONTHLY",
+    "data": {
+        "TIMESHEET": {
+            "HOURS": {
+                "ELECTRICAL_DESIGN": {
+                    "KEL": {
+                        "actuals": 0.0,
+                        "budget": 1422.0,
+                        "forecast": 1422.0,
+                        "prognosis": 1422.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 1422.0,
+                        "rest_percentage": 0.0
+                    },
+                    "PEC": {
+                        "actuals": 653.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 653.5,
+                        "balance": -653.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    }
+                },
+                "ELECTRICAL_INSTALLATION": {
+                    "A+I(E)": {
+                        "actuals": 8.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 8.5,
+                        "balance": -8.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "INS": {
+                        "actuals": 1405.0,
+                        "budget": 15507.0,
+                        "forecast": 14102.0,
+                        "prognosis": 15507.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 14102.0,
+                        "rest_percentage": 1103.7010676156583
+                    }
+                },
+                "IN_HOUSE_COMMISSIONING": {
+                    "IBS": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    },
+                    "IBSS": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    },
+                    "KES": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "MECHANICAL_DESIGN": {
+                    "2D": {
+                        "actuals": 206.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 206.5,
+                        "balance": -206.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "DET": {
+                        "actuals": 0.0,
+                        "budget": 300.0,
+                        "forecast": 300.0,
+                        "prognosis": 300.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 300.0,
+                        "rest_percentage": 0.0
+                    },
+                    "DOK": {
+                        "actuals": 20.0,
+                        "budget": 1218.0,
+                        "forecast": 1198.0,
+                        "prognosis": 1218.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 1198.0,
+                        "rest_percentage": 6090.0
+                    },
+                    "KMA/KHP": {
+                        "actuals": 6655.0,
+                        "budget": 36945.0,
+                        "forecast": 30290.0,
+                        "prognosis": 36945.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 30290.0,
+                        "rest_percentage": 555.1465063861758
+                    },
+                    "PEM": {
+                        "actuals": 2233.5,
+                        "budget": 3697.0,
+                        "forecast": 1463.5,
+                        "prognosis": 3697.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 1463.5,
+                        "rest_percentage": 165.52496082381913
+                    },
+                    "QC": {
+                        "actuals": 527.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 527.5,
+                        "balance": -527.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "SIM": {
+                        "actuals": 970.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 970.0,
+                        "balance": -970.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    }
+                },
+                "MECHANICAL_INSTALLATION": {
+                    "A+I(M)": {
+                        "actuals": 639.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 639.0,
+                        "balance": -639.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "MMA/MHP": {
+                        "actuals": 1867.0,
+                        "budget": 24604.0,
+                        "forecast": 22737.0,
+                        "prognosis": 24604.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 22737.0,
+                        "rest_percentage": 1317.8361006963041
+                    },
+                    "PAM": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "ON_SITE_COMMISSIONING": {
+                    "IBK": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "PROJECT_MANAGEMENT": {
+                    "PM": {
+                        "actuals": 2166.5,
+                        "budget": 3675.0,
+                        "forecast": 1508.5,
+                        "prognosis": 3675.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 1508.5,
+                        "rest_percentage": 169.62843295638126
+                    },
+                    "POM": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "SUPPORT_FUNCTION": {}
+            },
+            "COST": {
+                "ELECTRICAL_DESIGN": {
+                    "KEL": {
+                        "actuals": 0.0,
+                        "budget": 2417400.0,
+                        "forecast": 2417400.0,
+                        "prognosis": 2417400.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 2417400.0,
+                        "rest_percentage": 0.0
+                    },
+                    "PEC": {
+                        "actuals": 1110950.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 1110950.0,
+                        "balance": -1110950.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    }
+                },
+                "ELECTRICAL_INSTALLATION": {
+                    "A+I(E)": {
+                        "actuals": 12282.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 12282.5,
+                        "balance": -12282.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "INS": {
+                        "actuals": 2030225.0,
+                        "budget": 22407615.0,
+                        "forecast": 20377390.0,
+                        "prognosis": 22407615.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 20377390.0,
+                        "rest_percentage": 1103.7010676156583
+                    }
+                },
+                "IN_HOUSE_COMMISSIONING": {
+                    "IBS": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    },
+                    "IBSS": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    },
+                    "KES": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "MECHANICAL_DESIGN": {
+                    "2D": {
+                        "actuals": 333497.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 333497.5,
+                        "balance": -333497.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "DET": {
+                        "actuals": 0.0,
+                        "budget": 484500.0,
+                        "forecast": 484500.0,
+                        "prognosis": 484500.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 484500.0,
+                        "rest_percentage": 0.0
+                    },
+                    "DOK": {
+                        "actuals": 32300.0,
+                        "budget": 1967070.0,
+                        "forecast": 1934770.0,
+                        "prognosis": 1967070.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 1934770.0,
+                        "rest_percentage": 6090.0
+                    },
+                    "KMA/KHP": {
+                        "actuals": 10747825.0,
+                        "budget": 59666175.0,
+                        "forecast": 48918350.0,
+                        "prognosis": 59666175.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 48918350.0,
+                        "rest_percentage": 555.1465063861758
+                    },
+                    "PEM": {
+                        "actuals": 3607102.5,
+                        "budget": 5970655.0,
+                        "forecast": 2363552.5,
+                        "prognosis": 5970655.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 2363552.5,
+                        "rest_percentage": 165.52496082381913
+                    },
+                    "QC": {
+                        "actuals": 851912.5,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 851912.5,
+                        "balance": -851912.5,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "SIM": {
+                        "actuals": 1566550.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 1566550.0,
+                        "balance": -1566550.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    }
+                },
+                "MECHANICAL_INSTALLATION": {
+                    "A+I(M)": {
+                        "actuals": 923355.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 923355.0,
+                        "balance": -923355.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 100.0
+                    },
+                    "MMA/MHP": {
+                        "actuals": 2697815.0,
+                        "budget": 35552780.0,
+                        "forecast": 32854965.0,
+                        "prognosis": 35552780.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 32854965.0,
+                        "rest_percentage": 1317.8361006963041
+                    },
+                    "PAM": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "ON_SITE_COMMISSIONING": {
+                    "IBK": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "PROJECT_MANAGEMENT": {
+                    "PM": {
+                        "actuals": 3683050.0,
+                        "budget": 6247500.0,
+                        "forecast": 2564450.0,
+                        "prognosis": 6247500.0,
+                        "balance": 0.0,
+                        "balance_percentage": 100.0,
+                        "rest": 2564450.0,
+                        "rest_percentage": 169.62843295638126
+                    },
+                    "POM": {
+                        "actuals": 0.0,
+                        "budget": 0.0,
+                        "forecast": 0.0,
+                        "prognosis": 0.0,
+                        "balance": 0.0,
+                        "balance_percentage": 0.0,
+                        "rest": 0.0,
+                        "rest_percentage": 0.0
+                    }
+                },
+                "SUPPORT_FUNCTION": {}
+            }
+        },
+        "COST TO GO": {
+            "COST": {
+                "F+V": {
+                    "actuals": 4209192.8,
+                    "budget": 31719400.0,
+                    "forecast": 27510207.2,
+                    "prognosis": 31719400.0,
+                    "balance": 0.0,
+                    "balance_percentage": 100.0,
+                    "rest": 27510207.2,
+                    "rest_percentage": 753.574414552833
+                },
+                "KTEP": {
+                    "actuals": 21957651.92,
+                    "budget": 0.0,
+                    "forecast": 0.0,
+                    "prognosis": 21957651.92,
+                    "balance": -21957651.92,
+                    "balance_percentage": 0.0,
+                    "rest": 0.0,
+                    "rest_percentage": 100.0
+                },
+                "KTES": {
+                    "actuals": 218822.75,
+                    "budget": 0.0,
+                    "forecast": 0.0,
+                    "prognosis": 218822.75,
+                    "balance": -218822.75,
+                    "balance_percentage": 0.0,
+                    "rest": 0.0,
+                    "rest_percentage": 100.0
+                },
+                "KTFT": {
+                    "actuals": 97865575.9,
+                    "budget": 0.0,
+                    "forecast": 0.0,
+                    "prognosis": 97865575.9,
+                    "balance": -97865575.9,
+                    "balance_percentage": 0.0,
+                    "rest": 0.0,
+                    "rest_percentage": 100.0
+                },
+                "KTHP": {
+                    "actuals": 1820363.14,
+                    "budget": 0.0,
+                    "forecast": 0.0,
+                    "prognosis": 1820363.14,
+                    "balance": -1820363.14,
+                    "balance_percentage": 0.0,
+                    "rest": 0.0,
+                    "rest_percentage": 100.0
+                },
+                "KTMA": {
+                    "actuals": 70430106.15,
+                    "budget": 0.0,
+                    "forecast": 0.0,
+                    "prognosis": 70430106.15,
+                    "balance": -70430106.15,
+                    "balance_percentage": 0.0,
+                    "rest": 0.0,
+                    "rest_percentage": 100.0
+                },
+                "RK": {
+                    "actuals": 0.0,
+                    "budget": 2854765.0,
+                    "forecast": 2854765.0,
+                    "prognosis": 2854765.0,
+                    "balance": 0.0,
+                    "balance_percentage": 100.0,
+                    "rest": 2854765.0,
+                    "rest_percentage": 0.0
+                },
+                "SOKO": {
+                    "actuals": 0.0,
+                    "budget": 0.0,
+                    "forecast": 0.0,
+                    "prognosis": 0.0,
+                    "balance": 0.0,
+                    "balance_percentage": 0.0,
+                    "rest": 0.0,
+                    "rest_percentage": 0.0
+                },
+                "ZKE": {
+                    "actuals": 56828.51,
+                    "budget": 339722419.0,
+                    "forecast": 339665590.49,
+                    "prognosis": 339722419.0,
+                    "balance": 0.0,
+                    "balance_percentage": 100.0,
+                    "rest": 339665590.49,
+                    "rest_percentage": 597802.7912398196
+                }
+            }
+        }
+    },
+    "total_actual_cost": "224155406.17",
+    "total_forecast_cost": "481945940.19",
+    "total_prognosis_cost": "706101346.36",
+    "total_budget_cost": "509010279.00",
+    "overall_balance": "-197091067.36",
+    "overall_balance_percentage": "72.09",
+    "generated_at": "2025-12-26T05:40:49.848644Z"
+}

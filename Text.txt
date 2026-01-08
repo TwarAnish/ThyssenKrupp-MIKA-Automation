@@ -1,0 +1,97 @@
+I have a project to be developed.
+This project will be in Django-Rest Framework.
+What this project will do is manage all the running projects in the company.
+The project will have multiple departments and sub departments under each department.
+
+the project will have fields like this
+co_no
+project_name
+location
+project_manager
+project_manager_email
+sales_person
+sales_person_email
+sales_value
+TER
+EFF
+FACTOR
+BUDGET
+MARGIN
+FORCAST
+
+
+and each project has a department like these
+PROJECT_MANAGEMENT
+MECHANICAL_DESIGN
+ELECTRICAL_DESIGN
+IN_HOUSE_COMMISSIONING
+MECHANICAL_INSTALLATION
+ELECTRICAL_INSTALLATION
+ON_SITE_COMMISSIONING
+SUPPORT_FUNCTION
+
+
+and these departments have sub departments like
+
+
+PROJECT_MANAGEMENT
+PM: Project Management PRO: Project Manager
+POM: Site Manager BSTL: OnSide Manager
+
+
+MECHANICAL_DESIGN
+MEC: Mechanical design coordinator MEC: Project Mechanical design Engineering Manager: Project Mechanical design Engineering Manager
+KMA/KHP: Engineering Mechanical & Pneumatic Design KMA_KHP: Mechanical Design 
+DET: Engineering Detailing DET: Detailing 
+DOK: Documentation DOK_SERV: Documentation
+SIM: Simulation
+2D: 2D Detailing
+QC: Quality Checking
+
+
+ELECTRICAL_DESIGN
+KEL: Engineering Electrical Design KEL: Electrical Design 
+
+
+IN_HOUSE_COMMISSIONING
+KES: Electrical Design SPecial Software KES_KESs: Software  Design
+IBS: Engineering Software & Commisioning Coordinator IBS: Software  Commissioning
+IBS: Commissioning & Special Software IBS_IBSs: Software  Commissioning
+ 
+
+
+MECHANICAL_INSTALLATION
+PAM: :Manager Assembly & Installation
+MMA/MHP: Mechanical,Pneumatic,Hydrauic Assembly on TKSY Shop Floor MMA_VMA_MHP: Mechanical Assembly
+A+I(M): Mechanical ,Pneumatic,Hydraulic Assembly On site AIM: Mechanical Assembly  on site
+
+
+
+ELECTRICAL_INSTALLATION
+INS: Electrical Installation INS Inhouse: Electrical Installation
+A+I(E): Electrical Installation on Site AIE: Electrical Installation  on site
+
+
+
+ON_SITE_COMMISSIONING
+IBK: Engineering Software & Commissioning at customer site IBK_IBKs: Commissioning on site
+
+
+now each department has an hourly rate
+and the same hourly rate applies to the sub departments.
+
+This hourly rate can be different for different 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

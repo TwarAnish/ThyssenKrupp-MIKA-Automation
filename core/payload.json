@@ -1,0 +1,94 @@
+{
+  "co_no": "30778",
+  "project_name": "Scout-SM416",
+  "location": "USA",
+  "project_manager": "Prabhat Shelke",
+  "project_manager_email": "test1@tkabs.com",
+  "sales_person": "Omkar Kulkarni",
+  "sales_person_email": "test2@tkabs.com",
+  "sales_value": 500000000,
+  "ebit_percentage": 8.00,
+  "sgna_percentage": 5.00,
+  "eff_percentage": 5.00,
+  "ter_percentage": 1.00,
+  "currency": "USD",
+  "exchange_rate": 100.00,
+  "department_budgets": {
+    "PROJECT_MANAGEMENT": {
+      "hourly_rate": 20,
+      "budget_hours": 2250.00
+    },
+    "MECHANICAL_DESIGN": {
+      "hourly_rate": 19,
+      "budget_hours": 10263.00
+    },
+    "ELECTRICAL_DESIGN": {
+      "hourly_rate": 20,
+      "budget_hours": 2500.00
+    },
+    "IN_HOUSE_COMMISSIONING": {
+      "hourly_rate": 20,
+      "budget_hours": 0
+    },
+    "MECHANICAL_INSTALLATION": {
+      "hourly_rate": 17,
+      "budget_hours": 23530.00
+    },
+    "ELECTRICAL_INSTALLATION": {
+      "hourly_rate": 17,
+      "budget_hours": 17647.00
+    },
+    "ON_SITE_COMMISSIONING": {
+      "hourly_rate": 20,
+      "budget_hours": 10000.00
+    },
+    "SUPPORT_FUNCTION": {
+      "hourly_rate": 10,
+      "budget_hours": 0
+    }
+  },
+  "sub_department_budgets": {
+    "PM": "4500000",
+    "POM": "0",
+
+    "PEM": "6000000",
+    "KMA/KHP": "11000000",
+    "DET": "0",
+    "DOK": "1000000",
+    "SIM": "2500000",
+    "2D": "5000000",
+    "QC": "1500000",
+
+    "PEC": "0",
+    "KEL": "5000000",
+
+    "KES": "0",
+    "IBS": "0",
+    "IBSS": "0",
+
+    "IBK": "20000000",
+
+    "PAM": "0",
+    "MMA/MHP": "15000000",
+    "A+I(M)": "25000000",
+
+    "INS": "5000000",
+    "A+I(E)": "20000000"
+  },
+  "cost_category_budgets": {
+    "KTFT": 90000000.00,
+    "KTES": 50000000.00,
+    "KTEP": 25000000.00,
+    "KTMA": 65000000.00,
+    "KTHP": 2200000.00,
+    "ZKE": 2725000.00,
+    "F+V": 5000000.00,
+    "SOKO": 0.00,
+    "RK": 0.00,
+    "ASSEMBLY SERVICES": 8000000.0,
+    "DESIGN SERVICES": 34000000.0,
+    "STATIONARY": 20000.0,
+    "QUALITY CHECKING": 1500000.0,
+    "FACTORY EQUIPMENTS CONSUMABLES": 55000.0
+  }
+}

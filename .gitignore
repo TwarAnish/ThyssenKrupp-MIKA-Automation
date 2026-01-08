@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.env/
+db.sqlite3
+media/
+staticfiles/
+250930 - Order income plus hourly output_Scout SM416.xlsx
+250930_MIKA File - Scout SM416.xlsm
+251031 - Order income plus hourly output_Scout SM416.xlsx
+251031_MIKA File - Scout SM416.xlsm
+20250930 PO Data.xls
+20250930 Timesheet Report.xls
+20251031 PO Data.xls
+20251031 Timesheet Report.xls
+All Project Hour Details for 3 months.xlsx
+All Project PO Details for 3 months.xlsx
+cost_to_go_psr.json
+test po.xls
+timesheet_psr.json

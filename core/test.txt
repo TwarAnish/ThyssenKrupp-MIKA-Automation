@@ -1,0 +1,14 @@
+• May 2025 → http://localhost:8000/api/projects/30778/psr/2025-05-31/
+• June 2025 → http://localhost:8000/api/projects/30778/psr/2025-06-30/
+• July 2025 → http://localhost:8000/api/projects/30778/psr/2025-07-31/
+• August 2025 → http://localhost:8000/api/projects/30778/psr/2025-08-31/
+• September 2025 → http://localhost:8000/api/projects/30778/psr/2025-09-30/
+• October 2025 → http://localhost:8000/api/projects/30778/psr/2025-10-31/
+
+
+python manage.py generate_psr_snapshot 30778 --date 2025-05-31 --frequency MONTHLY
+python manage.py generate_psr_snapshot 30778 --date 2025-06-30 --frequency MONTHLY
+python manage.py generate_psr_snapshot 30778 --date 2025-07-31 --frequency MONTHLY
+python manage.py generate_psr_snapshot 30778 --date 2025-08-31 --frequency MONTHLY
+python manage.py generate_psr_snapshot 30778 --date 2025-09-30 --frequency MONTHLY
+python manage.py generate_psr_snapshot 30778 --date 2025-10-31 --frequency MONTHLY

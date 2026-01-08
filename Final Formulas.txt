@@ -1,0 +1,42 @@
+When projects started, margin will be given in percentage
+
+sales x margin percentage.
+
+Margin = Sales - Sum Prognosis
+
+Sum Prognosis = Prognosis(Hours + PO) + EFF + TER
+
+EFF, TER = when projects started, EFF and TER will be given in percentage.
+
+EFF = Budget x Given Percentage.
+
+TER = Budget x Given Percentage.
+
+Factor = Sales / Sum Prognosis
+
+
+
+
+
+
+
+Sales Value = 500000000 --> Entered Manually
+EBIT% = 8.00% --> Entered Manually
+SGNA % = 5.00%	--> Entered Manually
+TER % = 1% --> Entered Manually
+EFF % = 1% --> Entered Manually
+
+EBIT Value = 40000000 --> Sales Value x EBIT%
+Cost with SGNA = 460000000 --> Sales Value - EBIT Value
+HK = 438095238 --> Cost with SGNA/(1 + SGNA%) ==> 460000000/(1+ 0.05)
+
+Direct Margin Value = 61904762 --> Sales Value - HK
+Direct Margin% = Direct Margin Value / Sales Value
+
+Factor = 1.14130 --> Sales Value / HK
+
+TER Value = 5000000 --> Sales Value x TER %
+EFF Value = 5000000 --> Sales Value x EFF %
+
+Actual Budget = 428095238 --> HK - TER Value - EFF Value
+Sum Prognosis = Actual Budget + TER Value + EFF Value
